@@ -35,7 +35,7 @@ The goal is to guess the given number within the minimal number of tries.
 [Back to the Contents](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#contents)
 
 ### The Data Lay-out
-Download the dataset [here] https://drive.google.com/file/d/1PIvuzw-BBIuRcgRcyKUAYCxg5aW4ByNU/view?usp=sharing and have it in the 'data' folder located in the same folder as the Jupyter notebook itself.
+Download the dataset <a> here href=https://drive.google.com/file/d/1PIvuzw-BBIuRcgRcyKUAYCxg5aW4ByNU/view?usp=sharing </a> and have it in the 'data' folder located in the same folder as the Jupyter notebook itself.
 [Back to the Contents](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#contents)
 
 ### The Project Stages
