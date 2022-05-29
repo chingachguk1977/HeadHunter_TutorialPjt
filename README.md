@@ -32,7 +32,7 @@ The repository contains the classic Battleship game for 2 players (right now Hum
 The repository contains the Telegram bot that can convert several world currencies (easter-eggs included). Start the bot, use '/help' or '/start' commands for short manual, use '/values' command or press 'List of currencies' inline button when available, to get the list of available currencies. Use '/buttons' or '/convert' command for interface with buttons, or type in your request: <amount of currency> <abbreviation for the currency you want to convert> <abbreviation of the currency you want to convert into>. For abbreviations, enter the '/values' command.
 
 
-* [Project 4. HeadHunter_TutorialPjt](https://github.com/chingachguk1977/CurrencyConverterBot)
+* [Project 4. HeadHunter_TutorialPjt](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files)
 
 Роман Быков (SF, DST-108)
 
