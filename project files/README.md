@@ -15,7 +15,6 @@
 ## Contents
 [1. Description](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#description)
 
-
 [2. The Problem Being Solved](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#the-problem-being-solved)
 
 [3. The Data Lay-out](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#the-data-lay-out)
@@ -36,8 +35,7 @@ The goal is to guess the given number within the minimal number of tries.
 [Back to the Contents](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#contents)
 
 ### The Data Lay-out
-Right now it implements the binary search algorithm. The cycle repeats 1000 times, each time the number of attempts it took to guess the number is added to the list, in the end we get the average number of attempts.
-Presumably, this number must not exceed log2 of the length of the array of numbers that we search in.
+Download the dataset [here] https://drive.google.com/file/d/1PIvuzw-BBIuRcgRcyKUAYCxg5aW4ByNU/view?usp=sharing and have it in the 'data' folder located in the same folder as the Jupyter notebook itself.
 [Back to the Contents](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#contents)
 
 ### The Project Stages
