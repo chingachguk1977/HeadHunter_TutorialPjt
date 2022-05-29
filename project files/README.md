@@ -2,7 +2,7 @@
 * [Project 0. Game: Guess a Number] https://github.com/chingachguk1977/Guess_a_number
 * [Project 1. Game: Tic-Tac-Toe](https://github.com/chingachguk1977/my_tic-tac-toe
 * [Project 2. Game: Battleship game](https://github.com/chingachguk1977/Battleship-game
-* [roject 3. Telegram Bot: Currency Converter bot for Telegram](https://github.com/chingachguk1977/CurrencyConverterBot
+* [Project 3. Telegram Bot: Currency Converter bot for Telegram](https://github.com/chingachguk1977/CurrencyConverterBot
 * [Project 4. Django News Portal Tutorial] https://github.com/chingachguk1977/NewsPaper
 
 
