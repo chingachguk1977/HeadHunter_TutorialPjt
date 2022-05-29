@@ -9,6 +9,9 @@
 Роман Быков (SF, FPW-61 & DST-108)
 
 
+# HeadHunter_TutorialPjt
+ SF Data Science course Pjt 1
+
 ## Contents
 [1. Description](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#description)
 
