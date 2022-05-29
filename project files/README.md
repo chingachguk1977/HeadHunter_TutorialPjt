@@ -27,23 +27,23 @@
 
 
 ### Description
-The computer generates a sequence of random numbers and tries to guess a number within this sequence. 
+Allegedly, we received a messed-up dataset from HeadHunter and are supposed to do some EDA/cleanup/visualization here using what we were supposed to learn so far.
 [Back to the Contents](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#contents)
 
 ### The Problem Being Solved
-The goal is to guess the given number within the minimal number of tries. 
+As the dataset is completely messed up (full of outliers, missed data, unorderly entered data, i.e. simply gotten as-is from the site), it's pretty much impossible to do any analysis. So we're supposed to do a number of preparatory steps to clean the dataset, put together some diagrams, do some EDA and come up with conclusions about various features that are supposedly going to help us with some predictions in the area.
 [Back to the Contents](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#contents)
 
 ### The Data Lay-out
-Download the dataset [here](https://drive.google.com/file/d/1PIvuzw-BBIuRcgRcyKUAYCxg5aW4ByNU/view?usp=sharing) and have it in the 'data' folder located in the same folder as the Jupyter notebook itself.
+Download the dataset [here](https://drive.google.com/file/d/1PIvuzw-BBIuRcgRcyKUAYCxg5aW4ByNU/view?usp=sharing) and put it in the 'data' folder located in the same folder as the Jupyter notebook itself.
 [Back to the Contents](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#contents)
 
 ### The Project Stages
-***
+The project is complete.
 [Back to the Contents](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#contents)
 
 ### The Results
-From what I've found, the binary search algorithm does work best for this type of task, and for 1000 iterations, the average number of attempts does not exceed the log2 of 1000, i.e. between 7 and 8.
+Quite entertaining project, a lot of things that were not well learned, popped up right in my face and punched some of my brains out... But eventually it all worked out, so---here we go!
 [Back to the Contents](https://github.com/chingachguk1977/HeadHunter_TutorialPjt/tree/main/project%20files#contents)
 
 
