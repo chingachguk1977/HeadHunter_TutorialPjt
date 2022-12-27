@@ -38,4 +38,10 @@ The repository contains the Telegram bot that can convert several world currenci
 
 Data Science EDA and visualization done on a huge dataset from HeadHunter
 
+* [Project 5. HeadHunter_TutorialPjt SQL-based](https://github.com/chingachguk1977/DST-HeadHunter-Pjt-2--SQL)
+
+Роман Быков (SF, DST-108)
+
+Some research done on a huge dataset from HeadHunter using SQL
+
 GLHF!
